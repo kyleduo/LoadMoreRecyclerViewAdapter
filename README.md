@@ -1,5 +1,5 @@
 # LoadMoreRecyclerViewAdapter
-Adapter for RecyclerView for load more. As simple as only a file to import to you project. (Not upload to gist because the network problom. -_-)
+Adapter for RecyclerView for load more. As simple as only a file to import to you project. (Did not upload to gist because the network problom. -_-)
 
 ###Usage & Notice
 
