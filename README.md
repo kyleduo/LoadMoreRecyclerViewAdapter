@@ -1,7 +1,7 @@
 # LoadMoreRecyclerViewAdapter
 Adapter for RecyclerView for load more. As simple as only a file to import to you project. (Did not upload to gist because the network problom. -_-)
 
-###Usage & Notice
+### Usage & Notice
 
 1. Instantiate this class with a **LayoutManager** object.
 2. Call ``RecyclerView.addOnScrollListener(LoadMoreRecyclerViewAdapter.getOnRecyclerScrollChangeListener());`` to listen the scroll event of RecyclerView.
